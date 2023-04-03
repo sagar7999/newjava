@@ -1,0 +1,44 @@
+//js variable
+//variable:-containers to store data values.
+//var,let,const
+//data types :- tw0 types
+//prematives :-string ,integer ,boolean ,null,undefined,symbol
+//Refrence data types :-Arrays, objects
+//earthmetic opretors :- +,-,/,*,%
+//Assignment opretors:-var c += b;-=,+=,*=,/=
+//comparision opretors:- ==,<=,>=,>,<
+//logical opretors :- &&,||,
+//logal not opretors := !
+//oprantes :- var a = 0;0 is the
+//functions := do not repeat yourself (dry princcipal)
+// condionals := if or else
+// nested if else == ladder
+// loops :- for,while,do While
+/*do{
+    console.log(arr[j]);
+    j++;
+}while(j<arr.length);
+*/
+//break & continue(is iteration ko cancle kroo agge ke print kroo)
+// Array method :- sort, unshift(arr[0]new ele),shift,tostring(),pop(last ele gone),push(add ele), 
+//string method :- .length(),indexof(),slice(0,3),replace(harry,rohan)
+//dates methods:- getTime,getfullYear,getDay
+//DOM MANUPULLATION:- add the styling in the page
+//DYNAMICAL CHANGES IN WEB PAGES
+//document.getelementById('click'); 
+//eleClass[0].classList.add("bg-primary")
+/*tn= document.getElementsByTagName('div')
+console.log(tn)
+createdElement = document.createElement('p');
+createElement.innerText = "this is created para";
+tn[0].appendChild(createElement);*/
+//dom Element making metod links,domain,
+//Selection if querry
+//document.querySelectorAll('.container')
+//console.log(sel);
+
+//events in js
+//addEventListener
+//arrow function :- setTimeout(log,6000)
+//local storage js
+//json :- tranport the data
